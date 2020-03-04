@@ -1,0 +1,43 @@
+.header {
+    background-color: #7abaff;
+    height: 75px;
+    color: white;
+    padding-left: 50px;
+}
+.header>div>div>div {
+    margin-top: 1rem;
+}
+.main>div>div:first-child {
+    background-color: white;
+}
+.main>div>div {
+    padding-bottom: 5rem;
+}
+.menu {
+    padding-left: 10px;
+    padding-bottom: 40px;
+}
+#search {
+    margin-left: 10px;
+    width: 60%;
+    margin-top: 1.5rem;
+    margin-bottom: 1.5rem;
+}
+.buttons button:first-child {
+  margin-top: 1rem;
+    width: 50%;
+  display: inline-block;
+}
+.buttons button:nth-child(2) {
+    width: 18%;
+    margin-top: 1rem;
+    margin-left: 1rem;
+    display: inline-block;
+}
+.menu span {
+    padding-left: 1rem;
+}
+.info {
+    padding-top: 8rem;
+
+}
